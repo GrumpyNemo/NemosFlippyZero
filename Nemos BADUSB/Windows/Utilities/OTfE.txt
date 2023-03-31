@@ -1,0 +1,7 @@
+GUI r
+DELAY 500
+STRING powershell
+ENTER
+DELAY 1500
+STRING irm christitus.com/win | iex
+ENTER

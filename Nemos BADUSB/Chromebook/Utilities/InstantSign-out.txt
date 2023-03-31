@@ -1,0 +1,9 @@
+REM Title: Chromebook Signout
+REM Author: nemo.
+REM Description: Logs the user out of the chromebook.
+REM Target: Chrome-OS.
+REM Version: 1.0
+REM Category: Fun
+CTRL-SHIFT Q 
+DELAY 50
+CTRL-SHIFT Q
